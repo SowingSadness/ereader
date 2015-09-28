@@ -16,11 +16,18 @@ Install
 
     python setup.py install
 
+Configure
+=========
+
+    See at ereader/ereader.ini
+    
 
 Usage
 =====
 
     ereader http://www.bbc.com/news/world-middle-east-34375875
+
+    ereader -c ~/.ereader.ini http://www.bbc.com/news/world-middle-east-34375875
 
 Tests
 =====
