@@ -1,0 +1,10 @@
+file:///home/a-sh/dev/ereader/tests/static/en/2__unset.html
+file:///home/a-sh/dev/ereader/tests/static/en/1__utf-8.html
+file:///home/a-sh/dev/ereader/tests/static/ch/1__utf-8.html
+file:///home/a-sh/dev/ereader/tests/static/ch/2__utf-8.html
+file:///home/a-sh/dev/ereader/tests/static/de/1__iso-8859-1.html
+file:///home/a-sh/dev/ereader/tests/static/fr/1__iso-8859-15.html
+file:///home/a-sh/dev/ereader/tests/static/fr/2__utf-8.html
+file:///home/a-sh/dev/ereader/tests/static/ru/3__cp1251.html
+file:///home/a-sh/dev/ereader/tests/static/ru/1__cp1251.html
+file:///home/a-sh/dev/ereader/tests/static/ru/2__utf-8.html

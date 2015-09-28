@@ -1,0 +1,13 @@
+main:
+    - complete tests
+    - py3k compability
+    - improve documetation of the code 
+    - sphinx doc
+    - do a more flexible settings
+
+documents.document:
+    - Ln  36: TODO correct detect parse artcile titles
+
+documents.formatter:
+    - Ln  53: TODO add support link base url
+    - tables formatter

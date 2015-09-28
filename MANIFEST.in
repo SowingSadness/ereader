@@ -1,0 +1,8 @@
+include README.rst
+include TODO
+include ereader.ini
+include MANIFEST.in
+
+prune doc
+prune dumps
+prune .cache
