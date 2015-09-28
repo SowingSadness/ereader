@@ -25,9 +25,16 @@ Configure
 Usage
 =====
 
+    
     ereader http://www.bbc.com/news/world-middle-east-34375875
 
-    ereader -c ~/.ereader.ini http://www.bbc.com/news/world-middle-east-34375875
+    Custom config:
+
+        ereader -c ~/.ereader.ini http://www.bbc.com/news/world-middle-east-34375875
+
+    Short view:
+
+        ereader -v 3 --short http://www.bbc.com/news/world-middle-east-34375875
 
 Tests
 =====
