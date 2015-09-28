@@ -47,10 +47,11 @@ setup(
     package_data=get_package_data(PACKAGE_NAME),
     zip_safe=False,
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'Programming Language :: Python :: 2.7',
         'Natural Language :: Russian',
-        'Intended Audience :: Developers',
+        'Operating System :: POSIX :: Linux',
+        'Operating System :: Microsoft :: Windows :: Windows 7',
     ],
     entry_points={'console_scripts': [
         'ereader = ereader.runner:main',
