@@ -6,6 +6,13 @@ Effective news site reader.
 
 Install
 =======
+    
+    
+    pip install virtualenv
+    virtualenv ereader
+    . env/bin/activate
+
+    pip install -r requirements.txt
 
     python setup.py install
 

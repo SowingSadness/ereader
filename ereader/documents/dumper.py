@@ -27,7 +27,7 @@ class StdoutDumper(BasePlugin):
 class ConsoleDumper(StdoutDumper):
     def get_stream(self):
         if platform.system().lower() == 'windows':
-            colorama.init(wrap=False, autoreset=True)
+            colorama.init(wrap=False)
             stream = colorama.AnsiToWin32(sys.stderr).stream
         else:
             colorama.init(autoreset=True)
